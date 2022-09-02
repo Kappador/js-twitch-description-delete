@@ -1,0 +1,17 @@
+{
+  "name": "js-twitch-delete-descriptions",
+  "version": "1.0.0",
+  "description": "Sets the description of your tokens to an empty string",
+  "main": "description.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Kappador",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1",
+    "needle": "^3.1.0",
+    "random-useragent": "^0.5.0",
+    "vorpal": "^1.12.0"
+  }
+}
